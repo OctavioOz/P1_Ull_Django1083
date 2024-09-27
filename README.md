@@ -15,3 +15,4 @@ Para trabajar con el frameworb de Django
 - 11 Creando el proyecto --> django-admin startproject webBarberia_proy .
 - 12 Realizar migracion al proyecto --> python manage.py migrate
 - 13 Ejecutar servidor web --> python manage.py runserver
+- Me trabajo proyecto
