@@ -1,0 +1,14 @@
+- Crear aplicacion ozaetaclase_app
+- comando --> python manage.py startapp ozaetaclase_app
+- creamos el archivo urls.py en ozaetaclase_app 
+- ![alt text](image-1.png)
+- En setting.py p2clase1083 
+- ![alt text](image-2.png)
+- En urls.py de p2clase1083
+- ![alt text](image-3.png)
+- En urls.py en ozaetaclase_app
+- ![alt text](image-4.png)
+- En views.py en ozaetaclase_app
+- ![alt text](image-5.png)
+- En urls.py ozaetaclase_app
+- ![alt text](image-6.png)
